@@ -1,0 +1,31 @@
+{
+  "isSampleData": false,
+  "lastEdited": "2026-10-22T12:00:00Z",
+  "stocks": [
+    { "symbol": "وفیروزه", "name": "صندوق سرمایه‌گذاری فیروزه موفقیت", "qty": 17749, "avgBuyToman": 565, "insCode": "55254206302462116" },
+    { "symbol": "فپنتا", "name": "صندوق سرمایه‌گذاری پنتا", "qty": 1489, "avgBuyToman": 4450, "insCode": "17914401175772326" },
+    { "symbol": "شپدیس", "name": "پتروشیمی پردیس", "qty": 3139, "avgBuyToman": 1180, "insCode": "44891482026867833" },
+    { "symbol": "کرومیت", "name": "صندوق / فرآوری معدنی کرومیت", "qty": 5000, "avgBuyToman": 560, "insCode": "" },
+    { "symbol": "فهامون", "name": "صندوق سرمایه‌گذاری هامون", "qty": 3607, "avgBuyToman": 610, "insCode": "38232437866669967" },
+    { "symbol": "فکور", "name": "صندوق سرمایه‌گذاری کوروش", "qty": 1240, "avgBuyToman": 590, "insCode": "66442254613568889" },
+    { "symbol": "فپردیس", "name": "صندوق سرمایه‌گذاری پردیس", "qty": 62, "avgBuyToman": 8200, "insCode": "41933952242799993" },
+    { "symbol": "وسرمایه", "name": "صندوق سرمایه‌گذاری سرمایه", "qty": 658, "avgBuyToman": 430, "insCode": "21963356012832211" },
+    { "symbol": "زشک", "name": "کشاورزی و دامپروری زشک", "qty": 211, "avgBuyToman": 1190, "insCode": "61449234123698745" },
+    { "symbol": "سیمکات", "name": "سیم و کابل تبریز (سیمکات)", "qty": 39, "avgBuyToman": 105, "insCode": "" },
+    { "symbol": "فساپ", "name": "صندوق سرمایه‌گذاری ساپ", "qty": 212, "avgBuyToman": 420, "insCode": "51617145879012365" }
+  ],
+  "stablecoins": [
+    { "symbol": "LUSD", "network": "Ethereum", "amount": 406.90, "pegUsd": 1.004 },
+    { "symbol": "USDT", "network": "Ethereum", "amount": 5.49, "pegUsd": 1.000 }
+  ],
+  "cash": {
+    "amountToman": 46000000,
+    "brokerPowerToman": 978278,
+    "targetUsdtToman": 248000
+  },
+  "nfts": [
+    { "id": "nft-1", "name": "Plush Pepe Gift #104", "category": "Telegram Gift", "buyToman": 24000000, "currentToman": 28500000 },
+    { "id": "nft-2", "name": "Fragment Username @...", "category": "Username", "buyToman": 18000000, "currentToman": 19500000 },
+    { "id": "nft-3", "name": "Anonymous Number +888", "category": "Number", "buyToman": 14000000, "currentToman": 15000000 }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": "1.0.0",
+  "description": "قوانین هشدار قیمتی غیرحساس برای بررسی در GitHub Actions و ارسال به تلگرام",
+  "cooldownHours": 6,
+  "rules": [
+    {
+      "id": "usdt-buy-zone",
+      "asset": "USDT",
+      "type": "fx",
+      "condition": "below",
+      "target": 250000,
+      "unit": "تومان",
+      "enabled": true,
+      "note": "ورود تتر به محدوده پله خرید"
+    },
+    {
+      "id": "usdt-bubble-zone",
+      "asset": "USDT",
+      "type": "fx",
+      "condition": "above",
+      "target": 285000,
+      "unit": "تومان",
+      "enabled": true,
+      "note": "عبور تتر از مرز هشدار حباب"
+    },
+    {
+      "id": "btc-dip-tier1",
+      "asset": "BTC",
+      "type": "crypto",
+      "condition": "below",
+      "target": 62000,
+      "unit": "USD",
+      "enabled": true,
+      "note": "پله اول شکار ریزش بیت‌کوین"
+    },
+    {
+      "id": "eth-dip-tier1",
+      "asset": "ETH",
+      "type": "crypto",
+      "condition": "below",
+      "target": 2200,
+      "unit": "USD",
+      "enabled": true,
+      "note": "پله اول شکار ریزش اتریوم"
+    },
+    {
+      "id": "vafiroozeh-support",
+      "asset": "وفیروزه",
+      "type": "stock",
+      "condition": "below",
+      "target": 550,
+      "unit": "تومان",
+      "enabled": true,
+      "note": "محدوده کم کردن میانگین وفیروزه"
+    },
+    {
+      "id": "fapenta-breakout",
+      "asset": "فپنتا",
+      "type": "stock",
+      "condition": "above",
+      "target": 5000,
+      "unit": "تومان",
+      "enabled": true,
+      "note": "عبور فپنتا از مقاومت ۵۰۰۰ تومان"
+    }
+  ]
+}

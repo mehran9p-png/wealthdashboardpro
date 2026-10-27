@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Wealth Terminal">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b100d"/><stop offset=".55" stop-color="#173d29"/><stop offset="1" stop-color="#287b4b"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#35a96c"/><stop offset="1" stop-color="#83edb1"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M84 410H428" stroke="#c9f7dc" stroke-opacity=".28" stroke-width="8" stroke-linecap="round"/>
+  <rect x="108" y="286" width="58" height="124" rx="16" fill="url(#bar)" opacity=".78"/>
+  <rect x="205" y="222" width="58" height="188" rx="16" fill="url(#bar)" opacity=".9"/>
+  <rect x="302" y="151" width="58" height="259" rx="16" fill="url(#bar)"/>
+  <path d="M102 224L205 147L280 178L399 91" fill="none" stroke="#f1fff6" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="399" cy="91" r="20" fill="#a7f3c5" stroke="#173d29" stroke-width="7"/>
+</svg>

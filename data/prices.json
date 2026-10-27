@@ -1,0 +1,105 @@
+{
+  "lastUpdated": "2026-10-27T13:24:43Z",
+  "fx": {
+    "usdtToman": 270100,
+    "freeUsdToman": 269020,
+    "gold18kToman": 17850000,
+    "source": "تترلند",
+    "updatedAt": "2026-10-27T13:24:43Z",
+    "stale": false
+  },
+  "stocks": {
+    "وفیروزه": {
+      "priceToman": 581,
+      "dailyChangePct": -2.01,
+      "stale": true
+    },
+    "فپنتا": {
+      "priceToman": 4704,
+      "dailyChangePct": 0.0,
+      "stale": true
+    },
+    "شپدیس": {
+      "priceToman": 1250,
+      "dailyChangePct": -2.95,
+      "stale": true
+    },
+    "کرومیت": {
+      "priceToman": 557,
+      "dailyChangePct": -2.96,
+      "stale": true
+    },
+    "فهامون": {
+      "priceToman": 718,
+      "dailyChangePct": 2.87,
+      "stale": true
+    },
+    "فکور": {
+      "priceToman": 689,
+      "dailyChangePct": 2.99,
+      "stale": true
+    },
+    "فپردیس": {
+      "priceToman": 9677,
+      "dailyChangePct": 2.99,
+      "stale": true
+    },
+    "وسرمایه": {
+      "priceToman": 504,
+      "dailyChangePct": 2.86,
+      "stale": true
+    },
+    "زشک": {
+      "priceToman": 1411,
+      "dailyChangePct": 2.99,
+      "stale": true
+    },
+    "سیمکات": {
+      "priceToman": 4584,
+      "dailyChangePct": 4310.7,
+      "stale": true,
+      "suspect": true
+    },
+    "فساپ": {
+      "priceToman": 497,
+      "dailyChangePct": 2.9,
+      "stale": true
+    }
+  },
+  "crypto": {
+    "BTC": {
+      "priceUsd": 80018.57,
+      "high90dUsd": 70200,
+      "ma200Usd": 63400,
+      "rsi14": 54.2,
+      "stale": false,
+      "source": "Coinbase",
+      "updatedAt": "2026-10-27T13:24:43Z"
+    },
+    "ETH": {
+      "priceUsd": 2321.75,
+      "high90dUsd": 3420,
+      "ma200Usd": 2980,
+      "rsi14": 46.8,
+      "stale": false,
+      "source": "Coinbase",
+      "updatedAt": "2026-10-27T13:24:43Z"
+    },
+    "SOL": {
+      "priceUsd": 100.37,
+      "high90dUsd": 188.5,
+      "ma200Usd": 151.2,
+      "rsi14": 51.5,
+      "stale": false,
+      "source": "Coinbase",
+      "updatedAt": "2026-10-27T13:24:43Z"
+    }
+  },
+  "sources": {},
+  "sentiment": {
+    "fngValue": 50,
+    "fngLabel": "Neutral",
+    "btcDominance": 57.4
+  },
+  "sourceType": "زنده (تترلند | بورس: 0 نماد | کریپتو: زنده)"
+}
